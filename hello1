@@ -1,4 +1,8 @@
 heheda
 hello git
 hello git 2
+<<<<<<< HEAD
 create a new dev &
+=======
+create a new dev &
+>>>>>>> new
